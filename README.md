@@ -1,1 +1,1 @@
-# zphisher
+# cybersecurity-phishing-awareness
